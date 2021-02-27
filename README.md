@@ -7,7 +7,7 @@ Default is en-US to zh-CN, you can change it later.
 
 ## Notes
 
-OmegaT cannot directly recognize GameMaker Studio 2's Language CSV files (Magenta CE CSV files is not compatible with it), export the fields that need to be translated as an XML file as an intermediate file (Export to XML Spreadsheet 2003 from Microsoft Excel).
+OmegaT cannot directly recognize GameMaker Studio 2's Language CSV files (Magento CE CSV files is not compatible with it), export the fields that need to be translated as an XML file as an intermediate file (Export to XML Spreadsheet 2003 from Microsoft Excel).
 
 ## How to use
 
