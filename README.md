@@ -14,6 +14,8 @@ OmegaT
 Microsoft Excel (2010 and later) (Or alternatives, e.g. WPS Office Spreadsheets, LibreOffice Calc)  
 Notepad3(optional)  
 
+<details><summary>More info</summary>
+
 ### Step 1: Download
 
 Fork and pull this repository by OmegaT (`Project --> Download Team Project`).
@@ -23,7 +25,7 @@ Enter your forked repository URL:
 ![](./screenshots/1.png)
 
 ### Step 2: Change your target language
-Go to `Project --> Properties`, change value in `Translated Files Language` and Press `OK` and reopen the project to apply.
+Go to `Project --> Properties` (Or press `Ctrl+E`), change value in `Translated Files Language` and Press `OK` and reopen the project to apply.
 
 ![](./screenshots/2.png)
 
@@ -34,3 +36,11 @@ Go to `Project --> Properties`, change value in `Translated Files Language` and 
 P.S.: This is my work layout, you can customize your layout.
 
 ![](./screenshots/4.png)
+
+### Step 4: Export and apply translated files.
+
+Go to `Project --> Create Translated Documents` (Or press `Ctrl+D`) to generate the translated files. then go to `Project --> Access Project Contents --> Target Files` to find them.
+
+![](./screenshots/5.png)
+
+</details>
