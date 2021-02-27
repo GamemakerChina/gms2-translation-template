@@ -1,15 +1,15 @@
-21-2-27 上午11:31
-项目统计数据
+2/27/21 5:41 PM
+Project Statistics
 
-       	 片段数	  单词数	字符数（不计空格）	字符数（计入空格）	#文件数	
-总共：    	7956	35622	   191967	   219207	   2	
-剩余片段：  	7946	35612	   191929	   219169	   2	
-独特片段：  	6883	33784	   181774	   208250	   2	
-剩余独特片段：	6881	33782	   181760	   208236	   2	
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    7956	35622	                     191967	                       219207	     2	
+Remaining:       	    7946	35612	                     191929	                       219169	     2	
+Unique:          	    6883	33784	                     181774	                       208250	     2	
+Unique Remaining:	    6881	33782	                     181760	                       208236	     2	
 
 
-各文件统计数据：
+Individual File Statistics:
 
-文件名            	总片段数	剩余片段数	独特片段数	剩余独特片段数	 总单词数	剩余单词数	独特单词数	剩余独特单词数	总字符数（不计空格）	剩余字符数（不计空格）	独特字符数（不计空格）	剩余独特字符数（不计空格）	总字符数（计入空格）	剩余字符数（计入空格）	独特字符数（计入空格）	剩余独特字符数（计入空格）	
-english.xml    	6813	 6803	 5760	   5758	26109	26099	24350	  24348	    137528	     137490	     127801	       127787	    156623	     156585	     146191	       146177	
-english_dnd.xml	1143	 1143	 1123	   1123	 9513	 9513	 9434	   9434	     54439	      54439	      53973	        53973	     62584	      62584	      62059	        62059	
+File Name      	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+english.xml    	          6813	              6803	           5760	                     5758	      26109	          26099	       24350	                 24348	                           137528	                               137490	                            127801	                                      127787	                             156623	                                 156585	                              146191	                                        146177	
+english_dnd.xml	          1143	              1143	           1123	                     1123	       9513	           9513	        9434	                  9434	                            54439	                                54439	                             53973	                                       53973	                              62584	                                  62584	                               62059	                                         62059	
