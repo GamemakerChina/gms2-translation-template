@@ -1,4 +1,6 @@
-# gms2-translation-template
+# The template is no longer maintained, please use [CSV filter plugin](https://github.com/GamemakerChina/gms2-ide-csv-filter) instead.
+
+## gms2-translation-template
 Translation template for GameMaker Studio 2 IDE.(OmegaT project)
 
 Default is en-US to zh-CN, you can change it later.
