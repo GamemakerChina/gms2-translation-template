@@ -22,7 +22,7 @@ Create a new Excel window and paste the data into the first column:
 
 Save as an XML document that can be recognized by OmegaT.
 
-The format recognized by OmegaT is `XML Spreadsheet 1003`, and name it `english.xml`
+The format recognized by OmegaT is `XML Spreadsheet 2003`, and name it `english.xml`
 
 ![](./screenshots/11.png)
 
