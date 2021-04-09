@@ -5,7 +5,38 @@ OmegaT
 Microsoft Excel (2010 and later) (Or alternatives, e.g. WPS Office Spreadsheets, LibreOffice Calc)  
 Visual Studio Code (You can use other code editors instead. e.g. Notepad3, Sublime Text)  
 
-<details><summary>More info</summary>
+<details><summary>Extract source from CSV file</summary>
+### Step 1: Extract from original file
+
+Use Excel to open `english.xml` from `path\to\GameMaker Studio 2\Languages` folder.
+
+Copy the data in the third column.
+
+![](./screenshots/9.png)
+
+Create a new Excel window and paste the data into the first column:
+
+![](./screenshots/10.png)
+
+### Step 2: Save file
+
+Save as an XML document that can be recognized by OmegaT.
+
+The format recognized by OmegaT is `XML Spreadsheet 1003`, and name it `english.xml`
+
+![](./screenshots/11.png)
+
+Use the same approach for DnD (DnD is in `path\to\GameMaker Studio 2\DnDLibs\YoYo Games\Languages`, but in order to avoid conflicts, you should name it  `english_dnd.xml`
+
+### Step 3: Import XML to OmegaT
+
+Copy `english.xml` and `english_dnd.xml` into OmegaT project's `source` folder.
+
+Reload this project.
+
+</details>
+
+<details><summary>Use Template</summary>
 
 ### Step 1: Download
 
