@@ -6,17 +6,18 @@ Microsoft Excel (2010 and later) (Or alternatives, e.g. WPS Office Spreadsheets,
 Visual Studio Code (You can use other code editors instead. e.g. Notepad3, Sublime Text)  
 
 <details><summary>Extract source from CSV file</summary>
+
 ### Step 1: Extract from original file
 
 Use Excel to open `english.xml` from `path\to\GameMaker Studio 2\Languages` folder.
 
 Copy the data in the third column.
 
-![](./screenshots/9.png)
+![](./screenshots/9.gif)
 
 Create a new Excel window and paste the data into the first column:
 
-![](./screenshots/10.png)
+![](./screenshots/10.gif)
 
 ### Step 2: Save file
 
